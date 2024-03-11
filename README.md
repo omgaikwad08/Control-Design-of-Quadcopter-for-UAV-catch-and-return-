@@ -1,5 +1,9 @@
 # Assessment-of-Linear-Quadratic-Regulator-for-Quadrotor
 
+
+https://github.com/omgaikwad08/Control-Design-of-Quadcopter-for-UAV-catch-and-return-/assets/98101801/be4c0bbd-925c-448c-9ee4-3160ac61702b
+
+
 Basic implementation of Linear Quadratic Regulator for a Quadrotor
 
 ## Abstract
